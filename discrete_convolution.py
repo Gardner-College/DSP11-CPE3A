@@ -31,8 +31,8 @@ def convolve(x, h):
 
 
 # Define input signals
-x = np.array([10, 20, 30, 40])  # Example input signal
-h = np.array([55, 88, 69])  # Example impulse response (e.g., simple filter)
+x = np.array([69, 75, 89, 48])  # Example input signal
+h = np.array([5.5, 52, 9.9])  # Example impulse response (e.g., simple filter)
 
 # Perform convolution
 y = convolve(x, h)

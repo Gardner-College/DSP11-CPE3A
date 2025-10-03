@@ -3,8 +3,8 @@ import matplotlib.pyplot as plt
 from scipy.signal import convolve
 
 # Define the input signals
-x = np.array([1, 2, 3])  # Example input signal
-h = np.array([4, 5, 6])  # Example impulse response
+x = np.array([88, 42, 63])  # Example input signal
+h = np.array([12, 8, 9])  # Example impulse response
 
 # Perform convolution using scipy
 y = convolve(x, h, mode='full')

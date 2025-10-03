@@ -34,8 +34,8 @@ def convolve_via_matrix(x, h):
 
 
 # Define the input signals
-x = np.array([1, 2, 3, 4])  # Example input signal
-h = np.array([0.5, 1, 0.5])  # Example impulse response
+x = np.array([345, 72, 903, 42])  # Example input signal
+h = np.array([0.9, 69, 0.7])  # Example impulse response
 
 # Perform convolution
 y = convolve_via_matrix(x, h)
