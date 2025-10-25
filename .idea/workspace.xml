@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="246ca9ad-f0a6-4926-b1c6-e0f7653241db" name="Changes" comment="ajesalva">
-      <change afterPath="$PROJECT_DIR$/sampling/ajesalva/aliasing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sampling/ajesalva/sampling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,11 +39,13 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/admin/PycharmProjects/DSP11-CPE3A/sampling/ajesalva"
+    "last_opened_file_path": "C:/Users/admin/PycharmProjects/DSP11-CPE3A/sampling/ajesalva22"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\PycharmProjects\DSP11-CPE3A\sampling\ajesalva22" />
+      <recent name="C:\Users\admin\PycharmProjects\DSP11-CPE3A\sampling\ajesalva" />
       <recent name="C:\Users\admin\PycharmProjects\DSP11-CPE3A\convolution\ajesalva" />
     </key>
   </component>
@@ -96,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761374537201</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ajesalva">
+      <option name="closed" value="true" />
+      <created>1761376873478</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1761376873478</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
