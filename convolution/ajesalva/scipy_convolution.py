@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from scipy.signal import convolve
 
 # Define the input signals
-x = np.array([206, 207, 208])  # Example input signal
+x = np.array([155, 156, 157])  # Example input signal
 h = np.array([-0.2, 0.6, -0.2])  # Example impulse response
 
 # Perform convolution using scipy
